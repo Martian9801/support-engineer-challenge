@@ -18,4 +18,4 @@
 
 #### Rails App URL
 
-Once you've deployed your Rails app, put the link here: `<app>.fly.dev`
+Once you've deployed your Rails app, put the link here: `https://weathered-paper-5965.fly.dev/`
