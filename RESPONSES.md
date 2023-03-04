@@ -41,19 +41,23 @@ steps I would cosider to follow to Troubleshoot customers problem
 
 [your response here]
 
-I'm sorry to hear that you're having trouble with your app on Fly.io
+I'm sorry to hear that you're having trouble with your app on Fly.io.
+
 Here are some steps you can take to troubleshoot this issue:
 1) Check the logs for your app to see if there are any error messages that might explain what's going on. You can access your logs from the Fly.io dashboard.
 
-2) Check the health checks for your app to make sure they're set up correctly. If they're not, they might be causing your app to become unavailable.
+2) Check the health checks for your app to make sure they're set up correctly, If they're not, they might be causing your app to become unavailable.
 
 3) Double-check your app's configuration to make sure it's set up correctly for the regions you've deployed it to. You might need to adjust your configuration to make it work properly on Fly.io
-4)  You can go through fly.docs to troubleshoot your issue 
+
+5)  You can go through fly.docs to troubleshoot your issue 
  
- Additionally, I would like to point out that just because your app is working locally doesn't necessarily mean it will work the same way on Fly.io. There might be differences in the environment or configuration that are causing the issue. So it's always best to test your app on Fly.io before you deploy it to ensure that it's working as expected. 
+ Additionally, I would like to point out that just because your app is working locally, doesn't necessarily mean it will work the same way on Fly.io. There might be differences in the environment or configuration that are causing the issue. So it's always best to test your app on Fly.io before you deploy it to ensure that it's working as expected. 
  
  I hope these steps help you get to the bottom of the issue.
  Let us know how it goes and if you have any further questions
+ 
+ Thanks
  
 
 #### Rails App URL
